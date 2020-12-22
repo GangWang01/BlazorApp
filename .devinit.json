@@ -1,0 +1,11 @@
+{
+    "$schema": "https://json.schemastore.org/devinit.schema-2.0",
+    "run": [
+      {
+        "comments": "Install tool vsts-npm-auth",
+        "tool": "npm-install",
+        "input": "vsts-npm-auth",
+        "additionalOptions": "-g"
+      }
+    ]
+  }
